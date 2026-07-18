@@ -10,11 +10,11 @@ For Review
 
 ## Project Overview
 
-This Project will be a preliminary step in the process of working towards an electric bike project. This project will revolve around the bikes throttle. This project will control a potentiometer of some kind to output a signal voltage which will be read by the motor controller.
+This project will incorporate several embedded systems into a single portable package. Powered by a 9v(?) battery the system will report various weather measurements(Temperature, Relative Humidity, Barometric Pressure) back to a client which will recieve, store, and visually represent data on a display. The system will communicate within the 915Mhz band using LoRa Modules.
 
 ## Educational Value Added
 
-This project will require use and implementation of variable sensors such as hall sensors which will broaden my horizons in design. Another beneficial component of this project is the experience with CAD and manufacturing.
+This project will broaden my horizons in system design, component integration, and product design. Using and honing skills from my Embedded Systems and Network-Applications courses I will build a communication system that updates live and prioritizes accuracy, reliability, and efficiency.
 
 ## Tasks
 
@@ -35,10 +35,17 @@ This project will require use and implementation of variable sensors such as hal
 ## BOM + Component Cost
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+MCU(10-15$)
+Sensors(<20$)
+Misc Components(<10$)
+Prototyping Supplies(20$)
+Comm Transceivers(~20$)
+
 
 ## Timeline
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 ## Useful Links
 
