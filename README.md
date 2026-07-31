@@ -56,10 +56,13 @@ Node
 https://store.rakwireless.com/products/wisduo-breakout-board-rak3272-sip?index=352&variant=42482783322310
 
 
-Adafruit TMAG5273 (A2) 3D Hall Effect Magnetometer 5.95 * 2 (One for windspeed one for wind direction)
-https://www.adafruit.com/product/6490
 
-BMP280
+
+BME280 (5$)
+https://www.mouser.com/en/ProductDetail/Bosch-Sensortec/BME280?qs=2OnyuXx6vpj2fK9HX7qb3g%3D%3D
+
+
+
 
 
 ## Timeline
