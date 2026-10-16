@@ -10,7 +10,7 @@ For Review
 
 ## Project Overview
 
-This project will incorporate several embedded systems into a single portable package. Powered by a 9v(?) battery the system will report various weather measurements(Temperature, Relative Humidity, Barometric Pressure) back to a client which will recieve, store, and visually represent data on a display. The system will communicate within the 915Mhz band using LoRa Modules.
+This project will incorporate several embedded systems into a single portable package. The system will be able to connect to a mobile device Via Bluetooth or Wi-Fi and through an Android interface the operator will be able to transmit textual data over a mesh network of similar nodes. The system will be self-contained with a focus on power-efficient operation.
 
 ## Educational Value Added
 
